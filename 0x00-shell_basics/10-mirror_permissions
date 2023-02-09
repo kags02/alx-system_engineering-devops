@@ -1,4 +1,4 @@
 #!/bin/bash
 chmod --
-reference=hello
-olleh
+reference=olleh
+hello
